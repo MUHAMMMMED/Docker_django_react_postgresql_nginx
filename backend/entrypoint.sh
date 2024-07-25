@@ -4,8 +4,7 @@ APP_PORT=${PORT:-8000}
 echo "Waiting for PostgreSQL to be available..."
 
  
-  sleep 20
- 
+  sleep 1
 
 echo "PostgreSQL started"
 
